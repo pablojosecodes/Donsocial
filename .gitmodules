@@ -1,0 +1,3 @@
+[submodule "donsocial-frontend"]
+	path = donsocial-frontend
+	url = git@github.com:pablojosecodes/donsocial-frontend.git
